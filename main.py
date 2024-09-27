@@ -52,7 +52,7 @@ def load_cache_if_possible(file_path, cache_path, disable_cache):
         return pd.read_csv(cache_path)
     else:
         # Sanitize and cache
-        return utils.sanitize_data(file_path, cache_path)
+        return sanitize_data(file_path, cache_path)
 
 
 def compute_dominator_mutants(hierarchy, short_names_to_nodes_mapping):

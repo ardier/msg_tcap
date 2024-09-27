@@ -118,7 +118,6 @@ mutant_id,test_id,kill_status
 ## Examples
 #### Generating MSG and Calculating TCAP
 ```bash
-Copy code
 python main.py --csv mutants.csv 0 \
                --killmatrix killmatrix.csv 0 1 2 \
                --tcap \

@@ -4,4 +4,3 @@ matplotlib
 tqdm
 pygraphviz
 tqdm
-unittest

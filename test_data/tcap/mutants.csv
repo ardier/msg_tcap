@@ -1,0 +1,15 @@
+Mutant,MutOp,Context
+m1,< ↦−→ !=,for
+m2,< ↦−→ ==,for
+m3,< ↦−→ <=,for
+m4,< ↦−→ >,for
+m5,< ↦−→ >=,for
+m6,< ↦−→ true,for
+m7,< ↦−→ false,for
+m8,< ↦−→ !=,if
+m9,< ↦−→ ==,if
+m10,< ↦−→ <=,if
+m11,< ↦−→ >,if
+m12,< ↦−→ >=,if
+m13,< ↦−→ true,if
+m14,< ↦−→ false,if
