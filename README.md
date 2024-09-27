@@ -48,7 +48,7 @@ This tool automates the generation of MSGs and calculates the TCAP, helping deve
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ardier/mutation-subsumption-graph.git
+   git clone https://github.com/ardier/msg_tcap.git
    cd mutation-subsumption-graph
     ```
 2. **Install Required Packages**:
